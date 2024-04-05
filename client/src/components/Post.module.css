@@ -1,0 +1,21 @@
+.post {
+  margin: 1rem 0rem;
+  padding: 1.5rem;
+  background-color: #9c7eee;
+  border-radius: 8px;
+}
+
+.author {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 0.8rem;
+}
+.content {
+  text-wrap: break-word;
+  white-space: pre-wrap;
+  font-size: 1.25rem;
+  margin: 0.25rem 0 0 0;
+  color: #593884;
+  font-style: italic;
+}
